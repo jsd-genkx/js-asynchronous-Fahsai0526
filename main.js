@@ -13,6 +13,7 @@ import { fetchDataBasic } from "./12-fetch-data-basic.js";
 import { asyncAwaitBasic } from "./13-async-await-basic.js";
 import { fetchDataAsync } from "./14-fetch-data-async.js";
 import { fetchDataAsyncSingle } from "./15-try-catch-finally.js";
+import { fetchPostsThen } from "./exercises/01-fetch-api-posts.js";
 
 const runButton = document.getElementById("runCodeBtn");
 
